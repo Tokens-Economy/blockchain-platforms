@@ -110,9 +110,9 @@ landscape:
           - item:
             name: Rootstock (RSK)
             homepage_url: 'https://www.rsk.co/'
-            logo: roostock.svg
+            logo: rootstock.svg
             twitter: 'https://twitter.com/aaaaaa'
-            crunchbase: 'https://www.crunchbase.com/organization/aaaa'
+            crunchbase: 'https://www.crunchbase.com/organization/rootstock'
           - item:
             name: RChain
             homepage_url: 'https://www.rchain.coop/'
